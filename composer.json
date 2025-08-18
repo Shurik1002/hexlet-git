@@ -1,0 +1,17 @@
+{
+    "name": "shurik/hexlet-git",
+    "autoload": {
+        "psr-4": {
+            "Shurik\\HexletGit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shurik1002",
+            "email": "alexandra.okalina@yandex.ru"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^12.24"
+    }
+}
